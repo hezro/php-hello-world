@@ -1,5 +1,6 @@
 {
     "require": {
-        "symfony/yaml": "2.6.4"
+        "symfony/yaml": "2.6.4",
+        "moodle/moodle": "4.0.0"
     }
 }
